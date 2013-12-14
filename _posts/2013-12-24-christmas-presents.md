@@ -2,8 +2,8 @@
 layout: post
 title: "Weihnachtsgeschenke 2014"
 description: ""
-category: Leben
-tags: [leben]
+category:
+tags: []
 ---
 {% include JB/setup %}
 
@@ -18,3 +18,5 @@ Meine Geschenke an andere dieses Jahr zu Weihnachten:
 * Tischaufsteller: Kluge Frauen: die unsere Welt bewegten
 * USB-Stick: Kingston DTSE9H/32GB DataTraveler SE9 UFD 32GB Speicherstick USB 2.0 (Metal casing)
 * CD: Loreena McKennitt - The Mask and Mirror
+
+/Edit: Tags entfernt
