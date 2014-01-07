@@ -9,11 +9,11 @@ tags: []
 
 ## Vokabeln
 
-tangere (berühren)  
-laudare (loben)  
-servire (dienen)  
-delere (zerstören)  
-ponere (stellen)  
-dicere (sagen)  
-parare (bereiten)  
-habere (haben)  
+* tangere (berühren)
+* laudare (loben)
+* servire (dienen)
+* delere (zerstören)
+* ponere (stellen)
+* dicere (sagen)
+* parare (bereiten)
+* habere (haben)
